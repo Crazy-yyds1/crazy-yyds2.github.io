@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Midjourney",
+    "tags": ["图像生成", "艺术创作"],
+    "desc": "基于Discord的AI绘画工具...",
+    "url": "https://midjourney.com"
+  },
+  {
+    "name": "GitHub Copilot",
+    "tags": ["编程辅助", "代码生成"],
+    "desc": "AI编程助手...",
+    "url": "https://copilot.github.com"
+  }
+]
